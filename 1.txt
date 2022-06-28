@@ -1,0 +1,17 @@
+https://github.com/Miel04/Miel06.git
+
+git config --global user.name "Miel04"
+
+git config --global user.email "745431886@qq.com"
+
+
+ssh-keygen -t rsa -C "745431886@qq.com"
+
+cd F:\TV Box
+
+git remote add origin https://github.com/Miel04/Miel06.git
+
+https://github.com/Miel04/Miel06.git
+
+
+https://github.com/Miel04/Miel04.git
