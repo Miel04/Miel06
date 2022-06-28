@@ -1,3 +1,0 @@
-git remote add origin https://github.com/Miel04/Miel06.git
-
-cd F:\TVbox
