@@ -303,6 +303,9 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 崂山电视,https://jsylivealone302.iqilu.com/laoshan/laoshan_tv01.m3u8
 探索,#genre#
 动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+动物星球2,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+Discovery,http://220.134.196.147:9568/http/116.50.42.19:8081/hls/71/813/ch44.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
+国家地理,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef 
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
