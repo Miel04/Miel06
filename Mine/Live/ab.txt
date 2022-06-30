@@ -302,7 +302,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 青岛李沧,https://jsylivealone302.iqilu.com/licang/licang_tv01.m3u8
 崂山电视,https://jsylivealone302.iqilu.com/laoshan/laoshan_tv01.m3u8
 探索,#genre#
-动物星球，https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
