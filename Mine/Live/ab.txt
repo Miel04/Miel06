@@ -249,7 +249,6 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 安多卫视,http://111.40.196.28/PLTV/88888888/224/3221225666/index.m3u8?zweimd
 黑龙江卫视,http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8?zweimd
 上海,#genre#
-新闻综合,http://140.207.241.2:8080/live/program/live/dycjhd/2300000/mnf.m3u8?sign=1652235852-87b9f005230c814bcbb89a0d24367900
 新闻综合,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8
 生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8?zshangd
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
