@@ -1,6 +1,6 @@
 ﻿
 {
-"spider":"https://gitee.com/miel04/miel06/raw/master/ab.jar",
+"spider":"https://gitee.com/miel04/miel06/raw/master/007.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taWVsMDQuZ2l0aHViLmlvL01pZWwwNi9NaW5lL0xpdmUvYWIudHh0"]}]}],
