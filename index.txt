@@ -8,5 +8,14 @@
 　　git pull --rebase origin master
 　　
   
-执行上面代码后可以看到本地代码库中多了README.md文件              
+执行上面代码后可以看到本地代码库中多了README.md文件      
+
+
+问题原因：
+
+其他地方向同一远端库推送了代码，导致本地不是最新的。
+
+解决方案：
+
+先从远端pull一下，执行：git pull        
       
