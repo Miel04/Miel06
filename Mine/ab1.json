@@ -1,6 +1,6 @@
 ﻿
 {
-"spider":"https://gitcode.net/Miel04/miel06/-/raw/5be3abf01cd220e03648363fb70d707b64e555c2/0704.jar",
+"spider":"https://gitee.com/miel04/miel06/raw/master/ab.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taWVsMDQuZ2l0aHViLmlvL01pZWwwNi9NaW5lL0xpdmUvYWIudHh0"]}]}],
