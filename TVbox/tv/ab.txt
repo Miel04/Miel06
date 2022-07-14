@@ -180,17 +180,6 @@ CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8#http://39.135.55.105:6610/
 山东教育卫视,http://117.148.179.157/PLTV/88888888/224/3221231549/index.m3u8?shandd
 山东教育卫视,http://39.135.32.6:6610/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT?shandd
 济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
-//山东新闻,http://58.58.75.234:8154/tsfile/live/1002_1.m3u8
-//山东新闻,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
-//山东体育,http://58.58.75.234:8154/tsfile/live/1006_1.m3u8
-//山东齐鲁,http://58.58.75.234:8154/tsfile/live/1001_1.m3u8
-//山东齐鲁,http://39.136.48.98:8089/PLTV/88888888/224/3221226045/1.m3u8
-//山东生活,http://58.58.75.234:8154/tsfile/live/1005_1.m3u8
-//山东综艺,http://58.58.75.234:8154/tsfile/live/1003_1.m3u8
-//山东文旅,http://58.58.75.234:8154/tsfile/live/1004_1.m3u8
-青岛,#genre#
-平度新闻综合,https://jsylivealone302.iqilu.com/pingdu/pingdu_tv01.m3u8
-平度生活服务,https://jsylivealone302.iqilu.com/pingdu/pingdu_tv02.m3u8
 QTV-1,http://122.4.199.164:9151/hls/18/index.m3u8
 QTV-2,http://122.4.199.164:9151/hls/19/index.m3u8
 QTV-3,http://122.4.199.164:9151/hls/20/index.m3u8
@@ -199,6 +188,8 @@ QTV-4,http://122.4.199.164:9151/hls/21/index.m3u8
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 青岛李沧,https://jsylivealone302.iqilu.com/licang/licang_tv01.m3u8
 崂山电视,https://jsylivealone302.iqilu.com/laoshan/laoshan_tv01.m3u8
+平度新闻综合,https://jsylivealone302.iqilu.com/pingdu/pingdu_tv01.m3u8
+平度生活服务,https://jsylivealone302.iqilu.com/pingdu/pingdu_tv02.m3u8
 探索,#genre#
 动物星球(英),https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 动物星球(国),http://8.210.36.158/de/twlive.php?id=live1004#http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288#https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
