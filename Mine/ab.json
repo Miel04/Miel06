@@ -25,7 +25,6 @@
 {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_n0ys","name":"🐥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"📜小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"茶杯狐","name":"🍵茶杯狐","type":1,"api":"http://120.27.202.86:5252/cupfox.php?key=cupfox","searchable":1,"quickSearch":1,"filterable":0,"playUrl": "json:http://120.27.202.86:8080/lanlan?key=tt888666&url="},
 {"key":"FindZY","name":"☁盘搜(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key":"csp_mayigq","name":"🐬麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/mayigq.json"},
 {"key":"csp_biubiu_555电影","name":"🎁555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/555dy.json"},
