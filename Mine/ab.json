@@ -132,7 +132,7 @@
 {"name":"解析12线","url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="}, 
 {"name":"解析13线","type":0,"url":"http://42.193.18.62:9999/analysis.php?v="},
 {"name":"解析14线","type": 1,"url":"http://ck.laobandq.com/3515240842.php?pltfrom=1100&url="},
-{"name":"解析15线","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"解析15线","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
