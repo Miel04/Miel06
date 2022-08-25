@@ -7,9 +7,9 @@
 "sites":[
 
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Blixq","name":"🎭戏迷(SP)","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Blixs","name":"🎻曲艺(SP)","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key":"csp_BBB","name":"📮哔哩(SP)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Blixq","name":"🎭戏迷(SP)","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_Blixs","name":"🎻曲艺(SP)","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 0,"filterable": 1},
+//{"key":"csp_BBB","name":"📮哔哩(SP)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
