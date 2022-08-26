@@ -7,9 +7,8 @@
 "sites":[
 
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Blixq","name":"🎭戏迷(SP)","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_Blixs","name":"🎻曲艺(SP)","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 0,"filterable": 1},
-//{"key":"csp_BBB","name":"📮哔哩(SP)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Blixq","name":"🎭戏迷(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/Xiqu.json"},
+{"key":"csp_BBB","name":"📮哔哩(SP)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/Bilibli.json"},
 {"key":"csp_LiteApple","name":"🍎苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -25,7 +24,8 @@
 {"key":"Yisou","name":"☁易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key":"csp_biubiu_555电影","name":"🎁555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/555dy.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/shdy.json"},
-{"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/LIBVIO.json"},
+{"key":"csp_biubiu_LIBVIO","name":"🔷Libvio(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/LIBVIO.json"},
+{"key":"csp_biubiu_voflix","name":"🍌Voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/voflix.json"},
 {"key":"csp_biubiu_大米星球","name":"⭐️大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/dmxq.json"},
 {"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/czzy2.json"},
 {"key":"csp_biubiu_在线之家","name":"📀在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Miel04/Miel06/master/TVbox/MaooXB/zxzj.json"},
