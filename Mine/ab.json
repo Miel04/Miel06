@@ -7,6 +7,8 @@
 "sites":[
 
 {"key":"csp_Lezhu","name":"🐷乐猪(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Blixq","name":"🎭戏迷(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/miel04/miel06/raw/master/XB/ximi.json"},
+{"key":"csp_BBB","name":"📮哔哩(SP)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://gitee.com/miel04/miel06/raw/master/XB/biliAll.json"},
 {"key":"csp_dy555","name":"♨️555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Yhua","name":"👼原画(搜索)","type":3,"api":"csp_Yhua","searchable":1,"quickSearch":1,"filterable":1,"ext":"5d50d017cfd14655889d27ba282ffb6a"},
